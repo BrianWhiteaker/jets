@@ -1,3 +1,3 @@
 # jets
 NASA Internship Report
-Code is not available due to NASA restrictions.
+This is the internship final report only. Code is not available due to NASA restrictions.
